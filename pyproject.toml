@@ -3,9 +3,9 @@ requires = ["setuptools>=68"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "spectrograph-shared-data"
+name = "classi-shared-data"
 version = "0.0.1"
-description = "Shared/common data files for the MLO spectrograph software"
+description = "Shared/common data files for the MLO CLASSI spectrograph software"
 readme = "README.md"
 requires-python = ">=3.10"
 
