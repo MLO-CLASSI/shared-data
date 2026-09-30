@@ -1,7 +1,7 @@
 # Reference spectra
 
 | File                                                | Object                                                                         | Object Type | Redshift | $g$ mag | $r$ mag | $i$ mag |
-|-----------------------------------------------------|--------------------------------------------------------------------------------|:-----------:|:--------:|--------:|--------:|--------:|
+|:----------------------------------------------------|:------------------------------------------------------------------------------:|:-----------:|:---------|:--------|:--------|:--------|
 | desi_sky_bright.ecsv                                | sky                                                                            |     sky     |    0     |  18.97  |  18.85  |  18.73  |
 | desi_sky_grey.ecsv                                  | sky                                                                            |     sky     |    0     |  20.60  |  20.14  |  19.78  |
 | desi_sky_dark.ecsv                                  | sky                                                                            |     sky     |    0     |  21.35  |  20.57  |  20.07  |
@@ -12,6 +12,7 @@
 | SN1a_R20mag.ecsv                                    | ?                                                                              |    SN Ia    |    ?     |  19.82  |  19.65  |  20.05  |
 | SNIa_max_z0p05.txt                                  | template                                                                       |    SN Ia    |   0.05   |  17.22  |  17.38  |  17.90  |
 | tns_2024xny_2024-10-22_14-37-23_UH88_SNIFS_SCAT.dat | [SN 2024xny](https://www.wis-tns.org/object/2024xny)                           |   SLSN-I    |   0.1    |  17.61  |  17.79  |  18.04  | 
+| tns_2026keb_2026-09-11_06-04-12_Keck1_LRIS_ZTF.ascii| [SN 2026keb](https://www.wis-tns.org/object/2026keb)                           |   SLSN-II   |  0.198   |  20.51  |  19.86  |  19.39  | 
 | tns_2026neb_2026-06-23_10-31-59_UH88_SNIFS_SCAT.dat | [SN 2026neb](https://www.wis-tns.org/object/2026neb)                           |    SN II    |   0.06   |  20.26  |  19.79  |  19.66  |
 | tns_2026vbs_2026-07-23_10-30-04_UH88_SNIFS_SCAT.txt | [SN 2026vbs](https://www.wis-tns.org/object/2026vbs)                           |    SN Ia    |   0.05   |  18.12  |  17.95  |  18.23  |
 | tns_2026twa_2026-07-13_UH88_SNIFS_SCAT.dat          | [SN 2026twa](https://www.wis-tns.org/object/2026twa)                           |    SN Ia    |  0.094   |  19.67  |  19.56  |  19.91  |
