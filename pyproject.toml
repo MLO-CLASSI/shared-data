@@ -15,4 +15,4 @@ package-dir = {shared_data = "."}
 include-package-data = true
 
 [tool.setuptools.package-data]
-shared_data = ["csv_files/*.csv", "reference_spectra/*"]
+shared_data = ["csv_files/*.csv", "csv_files/*.ecsv", "reference_spectra/*"]
